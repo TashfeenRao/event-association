@@ -1,11 +1,16 @@
-# Event Manangement
-
-> This project is about Event management . User can create events he can attend multiple events he can see his upcomming events.
+<h1 align="center">
+  Event scheduler
+</h1>
+This project is about Event management built in Ruby on Rails. Users can create events on any future dates by writing a title and a description. Users can see and attend upcoming/past events by one click.
 
 ## Built With
 
 - Ruby v2.6.5
 - Ruby on Rails v5.2.4
+
+## Live Version
+
+https://powerful-ocean-51924.herokuapp.com/
 
 ## Getting Started
 
@@ -72,4 +77,15 @@ Heroku
 
 ## 📝 License
 
-TBA
+MIT
+
+
+[Tashfeen Rao](https://tashfeenrao.github.io/personal-portfolio/) &nbsp;&middot;&nbsp;
+</br>
+Email: tashfeendev@gmail.com &nbsp;&middot;&nbsp;
+</br>
+AngelList [TashfeenRao](https://angel.co/u/tashfeen-rao) &nbsp;&middot;&nbsp;
+</br>
+LinkedIn [Tashfeen Rao](https://www.linkedin.com/in/tashfeen-rao/) &nbsp;&middot;&nbsp;
+</br>
+Twitter [@TashfeenDev](https://twitter.com/TashfeenDev) &nbsp;&middot;&nbsp;
